@@ -1,5 +1,5 @@
 # Welcome!
-- My name's Connor 👋, a 4th year maths student interested in programming and working with data. <br>
+- My name's Connor👋, a 4th year maths student interested in programming and working with data. <br>
 
 - 🌟 Current Projects:
   - Dissertation (TBD)
