@@ -1,16 +1,17 @@
-# Welcome!
-- My name's Connor👋, a 4th year maths student interested in programming and working with data. <br>
+# About
+Hi, my name is Connor! 👋  <br> <br>
+I'm a recent graduate (MMath) with an interest in programming and working with data. <br> <br>
+Currently, I am working on various projects and trying to improve my knowledge of data science. <br> <br>
 
-- 🌟 Current Projects:
-  - Dissertation (TBD)
-  - Clone Soundcloud/Spotify playlists to YouTube. (Python)
-  - Personal website/portfolio (HTML/CSS)
+🌟 Current Projects:
+  - Playlist Converter (YouTube <--> Spotify) (Python)
+  - Personal Website (? ? ?)
 
-- 🌱 I'm currently developing my skills in:
-  - HTML/CSS 💾
-  - Python 🐍
-  - SQL 📑
-  - Tableau 📊
+<br>
+
+🔗 Other Links:
+- [LinkedIn](https://www.linkedin.com/in/cpjt/)
+- [Kaggle](https://www.kaggle.com/connortynan)
 
 
 <!---
