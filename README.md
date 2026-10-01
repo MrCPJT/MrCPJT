@@ -1,3 +1,3 @@
 # About
 
-Interests: Hypothesis testing, generative modelling, applied machine learning, and mathematical biology.
+Kaggle: https://www.kaggle.com/connortynan
